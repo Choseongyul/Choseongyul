@@ -41,7 +41,9 @@
 3.  Tetragon 정책 설계 및 다중 탐지 프로세스 고도화</br>
 
 
-> About This : Detailed project write-up coming soon!
+> About This Project </br>
+> https://github.com/Choseongyul/KERNEL </br>
+> 첨부한 링크의 레포지터리에 각 폴더에서 자세한 프로젝트 내용을 확인하실 수 있습니다. </br>
 </br>
 
 
